@@ -1,0 +1,25 @@
+/**
+* This is a valid CSS file.
+  **/
+  @font-face {
+	font-family: "vw-text";
+	src: url(https://vw.docu360.pe/fonts/vwtext-bold.woff2);
+	font-weight: bold;
+}
+@font-face {
+	  font-family: "vw-text";
+	  src: url(https://vw.docu360.pe/fonts/vwtext-regular.woff2);
+	  font-weight: regular;
+}
+@font-face {
+	  font-family: "vw-head";
+	  src: url(https://vw.docu360.pe/fonts/vwhead-light.woff2);
+	  font-weight: light;
+}
+@font-face {
+	font-family: "vw-head";
+	src: url(https://vw.docu360.pe/fonts/vwhead-bold.woff2);
+	font-weight: bold;
+}
+  .your-class {}
+
